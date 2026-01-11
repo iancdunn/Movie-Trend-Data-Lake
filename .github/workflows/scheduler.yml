@@ -1,0 +1,38 @@
+name: Serverless TMDB Data Lake
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install pandas requests tabulate
+
+      - name: Run ETL Script
+        env:
+          TMDB_API_KEY: ${{secrets.TMDB_API_KEY}}
+        run: python etl.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          # We add both the CSV (Data) and the MD (Report)
+          git add daily_movie_trends.csv LATEST_UPDATE.md
+          git commit -m "Auto-update: $(date +'%Y-%m-%d')" || exit 0
+          git push
