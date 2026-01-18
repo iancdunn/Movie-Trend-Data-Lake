@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-01-17
+# Daily Movie Trends: 2026-01-18
 
-|   Rank | Movie         |   Rating |
-|-------:|:--------------|---------:|
-|      1 | The Rip       |    7.224 |
-|      2 | Killer Whale  |    5     |
-|      3 | xXx           |    5.982 |
-|      4 | Rental Family |    7.7   |
-|      5 | Dust Bunny    |    7     |
+|   Rank | Movie                           |   Rating |
+|-------:|:--------------------------------|---------:|
+|      1 | The Rip                         |    7.139 |
+|      2 | xXx                             |    6     |
+|      3 | Killer Whale                    |    6.289 |
+|      4 | 28 Years Later: The Bone Temple |    7.015 |
+|      5 | Rental Family                   |    7.885 |
