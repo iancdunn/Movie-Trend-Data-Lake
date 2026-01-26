@@ -44,11 +44,12 @@ def load_data(rows):
     
     with open('LATEST_UPDATE.md', 'w') as f:
         f.write(f"# Daily Movie Trends: {rows[0]['date']}\n\n")
-        f.write(top_5.to_markdown(index = False))
+        f.write(top_5.to_markdown(index = False, floatfmt = ".1f"))
     
 if __name__ == "__main__":
     curr_date = datetime.now().strftime('%Y-%m-%d')
     raw_data = extract_data()
     clean_data = transform_data(raw_data, curr_date)
     load_data(clean_data)
+
 
