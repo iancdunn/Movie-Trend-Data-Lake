@@ -39,7 +39,10 @@ def load_data(rows, curr_date):
 
     df.to_csv(csv_buffer, index = False)
 
-    s3_key = f"cleaned_data/{curr_date}_movies.csv"
+    ymd = curr_date.split('-')
+    year = ymd[0]
+    month = ymd[1]
+    s3_key = f"cleaned_data/{year}/{month}/{curr_date}_movies.csv"
     s3 = boto3.client('s3')
 
     s3.put_object(Bucket = AWS_BUCKET, Key = s3_key, Body = csv_buffer.getvalue())
@@ -58,3 +61,4 @@ if __name__ == "__main__":
     raw_data = extract_data()
     clean_data = transform_data(raw_data, curr_date)
     load_data(clean_data, curr_date)
+
