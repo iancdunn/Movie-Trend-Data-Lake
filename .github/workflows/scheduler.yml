@@ -24,7 +24,7 @@ jobs:
         run: pip install pandas requests tabulate pytest boto3
       
       - name: Run Unit Tests
-        run: python test_transform_data.py
+        run: python tests/test_transform_data.py
 
       - name: Run ETL Script
         env:
