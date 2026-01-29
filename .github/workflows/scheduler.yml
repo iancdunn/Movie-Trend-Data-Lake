@@ -1,4 +1,4 @@
-name: AWS TMDB Data Lake
+name: Serverless TMDB Data Lake
 
 on:
   schedule:
