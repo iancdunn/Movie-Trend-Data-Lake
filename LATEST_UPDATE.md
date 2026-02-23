@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-02-22
+# Daily Movie Trends: 2026-02-23
 
 |   Rank | Movie                           |   Rating |
 |-------:|:--------------------------------|---------:|
-|      1 | Mercy                           |      7.0 |
-|      2 | 28 Years Later: The Bone Temple |      7.3 |
-|      3 | Firebreak                       |      6.0 |
-|      4 | One Mile: Chapter One           |      7.8 |
-|      5 | Marty Supreme                   |      7.6 |
+|      1 | Mercy                           |      7.1 |
+|      2 | 28 Years Later: The Bone Temple |      7.2 |
+|      3 | Hamnet                          |      7.7 |
+|      4 | Scream 7                        |      6.4 |
+|      5 | One Mile: Chapter One           |      7.7 |
