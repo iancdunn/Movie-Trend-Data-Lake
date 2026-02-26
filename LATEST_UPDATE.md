@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-02-25
+# Daily Movie Trends: 2026-02-26
 
-|   Rank | Movie                 | Rating   |
-|-------:|:----------------------|:---------|
-|      1 | Shelter               | 7.1      |
-|      2 | The Bluff             | 5.0      |
-|      3 | Return to Silent Hill | 5.1      |
-|      4 | Scream 7              | 5.8      |
-|      5 | Toy Story 5           | N/A      |
+|   Rank | Movie                 |   Rating |
+|-------:|:----------------------|---------:|
+|      1 | The Bluff             |      5.8 |
+|      2 | Shelter               |      7.0 |
+|      3 | Scream 7              |      6.2 |
+|      4 | Return to Silent Hill |      5.1 |
+|      5 | Hamnet                |      7.7 |
