@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-02-27
+# Daily Movie Trends: 2026-02-28
 
-|   Rank | Movie                           |   Rating |
-|-------:|:--------------------------------|---------:|
-|      1 | The Bluff                       |      5.9 |
-|      2 | Scream 7                        |      6.0 |
-|      3 | Shelter                         |      7.0 |
-|      4 | Return to Silent Hill           |      5.1 |
-|      5 | 28 Years Later: The Bone Temple |      7.2 |
+|   Rank | Movie                  |   Rating |
+|-------:|:-----------------------|---------:|
+|      1 | In the Blink of an Eye |      6.2 |
+|      2 | The Bluff              |      6.0 |
+|      3 | Scream 7               |      5.8 |
+|      4 | Shelter                |      6.9 |
+|      5 | Nuremberg              |      7.3 |
