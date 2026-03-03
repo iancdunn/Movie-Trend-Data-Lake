@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-03-02
+# Daily Movie Trends: 2026-03-03
 
-|   Rank | Movie      |   Rating |
-|-------:|:-----------|---------:|
-|      1 | Scream 7   |      5.9 |
-|      2 | The Bluff  |      5.9 |
-|      3 | Hoppers    |      7.5 |
-|      4 | The Bride! |     10.0 |
-|      5 | Hamnet     |      7.8 |
+|   Rank | Movie       | Rating   |
+|-------:|:------------|:---------|
+|      1 | The Bride!  | 8.333    |
+|      2 | Scream 7    | 6.0      |
+|      3 | Scary Movie | N/A      |
+|      4 | Hoppers     | 8.211    |
+|      5 | The Bluff   | 6.092    |
