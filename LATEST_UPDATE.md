@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-03-05
+# Daily Movie Trends: 2026-03-06
 
-|   Rank | Movie         |   Rating |
-|-------:|:--------------|---------:|
-|      1 | The Bride!    |      8.2 |
-|      2 | Street Flow 3 |      3.7 |
-|      3 | Hoppers       |      7.9 |
-|      4 | Whistle       |      6.0 |
-|      5 | Scream 7      |      6.0 |
+|   Rank | Movie        | Rating   |
+|-------:|:-------------|:---------|
+|      1 | War Machine  | N/A      |
+|      2 | The Bride!   | 7.081    |
+|      3 | Cold Storage | 6.3      |
+|      4 | Hoppers      | 7.8      |
+|      5 | Scream 7     | 6.0      |
