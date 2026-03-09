@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-03-08
+# Daily Movie Trends: 2026-03-09
 
-|   Rank | Movie                    |   Rating |
-|-------:|:-------------------------|---------:|
-|      1 | War Machine              |      6.9 |
-|      2 | Cold Storage             |      6.7 |
-|      3 | Hoppers                  |      7.6 |
-|      4 | The Strangers: Chapter 3 |      5.9 |
-|      5 | The Bride!               |      6.6 |
+|   Rank | Movie        |   Rating |
+|-------:|:-------------|---------:|
+|      1 | War Machine  |      7.0 |
+|      2 | Hoppers      |      7.6 |
+|      3 | Cold Storage |      6.5 |
+|      4 | The Bride!   |      6.4 |
+|      5 | Scream 7     |      6.0 |
