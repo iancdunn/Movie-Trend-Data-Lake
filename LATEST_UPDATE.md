@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-03-15
+# Daily Movie Trends: 2026-03-16
 
-|   Rank | Movie                          |   Rating |
-|-------:|:-------------------------------|---------:|
-|      1 | War Machine                    |      7.2 |
-|      2 | Good Luck, Have Fun, Don't Die |      7.0 |
-|      3 | Zootopia 2                     |      7.6 |
-|      4 | Hamnet                         |      7.7 |
-|      5 | "Wuthering Heights"            |      6.4 |
+|   Rank | Movie                    |   Rating |
+|-------:|:-------------------------|---------:|
+|      1 | One Battle After Another |      7.4 |
+|      2 | Sinners                  |      7.5 |
+|      3 | Hamnet                   |      7.7 |
+|      4 | Project Hail Mary        |      8.7 |
+|      5 | Frankenstein             |      7.7 |
