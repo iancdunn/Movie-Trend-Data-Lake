@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-03-16
+# Daily Movie Trends: 2026-03-17
 
-|   Rank | Movie                    |   Rating |
-|-------:|:-------------------------|---------:|
-|      1 | One Battle After Another |      7.4 |
-|      2 | Sinners                  |      7.5 |
-|      3 | Hamnet                   |      7.7 |
-|      4 | Project Hail Mary        |      8.7 |
-|      5 | Frankenstein             |      7.7 |
+|   Rank | Movie                        | Rating   |
+|-------:|:-----------------------------|:---------|
+|      1 | Project Hail Mary            | 8.575    |
+|      2 | One Battle After Another     | 7.398    |
+|      3 | Sinners                      | 7.474    |
+|      4 | Hoppers                      | 7.718    |
+|      5 | The Super Mario Galaxy Movie | N/A      |
