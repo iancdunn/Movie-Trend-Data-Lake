@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-03-21
+# Daily Movie Trends: 2026-03-22
 
 |   Rank | Movie                            |   Rating |
 |-------:|:---------------------------------|---------:|
-|      1 | Peaky Blinders: The Immortal Man |      7.1 |
-|      2 | Agent Zeta                       |      6.7 |
-|      3 | Project Hail Mary                |      8.3 |
-|      4 | Do Not Enter                     |      6.0 |
-|      5 | Scream 7                         |      5.9 |
+|      1 | Peaky Blinders: The Immortal Man |      7.4 |
+|      2 | Project Hail Mary                |      8.3 |
+|      3 | Agent Zeta                       |      6.7 |
+|      4 | Scream 7                         |      5.9 |
+|      5 | War Machine                      |      7.3 |
