@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-03-25
+# Daily Movie Trends: 2026-03-26
 
-|   Rank | Movie                 |   Rating |
-|-------:|:----------------------|---------:|
-|      1 | GOAT                  |      7.5 |
-|      2 | Send Help             |      7.0 |
-|      3 | Pretty Lethal         |      6.7 |
-|      4 | Project Hail Mary     |      8.2 |
-|      5 | How to Make a Killing |      6.9 |
+|   Rank | Movie             |   Rating |
+|-------:|:------------------|---------:|
+|      1 | Pretty Lethal     |      6.6 |
+|      2 | Project Hail Mary |      8.2 |
+|      3 | GOAT              |      7.5 |
+|      4 | Send Help         |      7.0 |
+|      5 | Hoppers           |      7.6 |
