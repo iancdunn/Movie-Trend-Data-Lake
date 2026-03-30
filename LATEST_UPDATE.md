@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-03-29
+# Daily Movie Trends: 2026-03-30
 
-|   Rank | Movie                      |   Rating |
-|-------:|:---------------------------|---------:|
-|      1 | Mike & Nick & Nick & Alice |      6.7 |
-|      2 | Project Hail Mary          |      8.2 |
-|      3 | Send Help                  |      7.1 |
-|      4 | Avatar: Fire and Ash       |      7.3 |
-|      5 | GOAT                       |      7.7 |
+|   Rank | Movie                        |   Rating |
+|-------:|:-----------------------------|---------:|
+|      1 | Avatar: Fire and Ash         |      7.3 |
+|      2 | "Wuthering Heights"          |      6.4 |
+|      3 | Project Hail Mary            |      8.2 |
+|      4 | Mike & Nick & Nick & Alice   |      6.6 |
+|      5 | The Super Mario Galaxy Movie |      8.4 |
