@@ -2,6 +2,8 @@
 
 A fully automated ETL pipeline that tracks daily movie trends. This project leverages **GitHub Actions** as a compute engine to extract data from the **TMDB API**, transform it using **Pandas**, and load it into a secure **AWS S3 Data Lake**.
 
+![S3 Bucket](media/movie_trend_data_lake.jpg)
+
 ## Project Overview
 
 This repository acts as a self-updating database of movie trends. Instead of paying for cloud servers, it uses GitHub Actions to run a daily cron job that:
