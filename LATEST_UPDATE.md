@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-04-01
+# Daily Movie Trends: 2026-04-02
 
 |   Rank | Movie                        |   Rating |
 |-------:|:-----------------------------|---------:|
-|      1 | Avatar: Fire and Ash         |      7.3 |
-|      2 | Crime 101                    |      7.0 |
-|      3 | Humint                       |      7.6 |
-|      4 | The Super Mario Galaxy Movie |      7.1 |
-|      5 | Scream 7                     |      5.9 |
+|      1 | Crime 101                    |      7.0 |
+|      2 | Avatar: Fire and Ash         |      7.3 |
+|      3 | The Super Mario Galaxy Movie |      7.0 |
+|      4 | Humint                       |      7.4 |
+|      5 | Project Hail Mary            |      8.2 |
