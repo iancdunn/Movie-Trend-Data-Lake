@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-04-17
+# Daily Movie Trends: 2026-04-18
 
 |   Rank | Movie                            | Rating   |
 |-------:|:---------------------------------|:---------|
-|      1 | Balls Up                         | 5.833    |
-|      2 | Avatar: Aang, The Last Airbender | N/A      |
-|      3 | Lee Cronin's The Mummy           | 7.5      |
-|      4 | Project Hail Mary                | 8.216    |
-|      5 | Vengeance                        | 6.0      |
+|      1 | Vengeance                        | 5.6      |
+|      2 | Project Hail Mary                | 8.212    |
+|      3 | 180                              | 5.0      |
+|      4 | Ballistic                        | 6.0      |
+|      5 | Avatar: Aang, The Last Airbender | N/A      |
