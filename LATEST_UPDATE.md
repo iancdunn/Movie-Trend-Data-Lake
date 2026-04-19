@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-04-18
+# Daily Movie Trends: 2026-04-19
 
-|   Rank | Movie                            | Rating   |
-|-------:|:---------------------------------|:---------|
-|      1 | Vengeance                        | 5.6      |
-|      2 | Project Hail Mary                | 8.212    |
-|      3 | 180                              | 5.0      |
-|      4 | Ballistic                        | 6.0      |
-|      5 | Avatar: Aang, The Last Airbender | N/A      |
+|   Rank | Movie                  |   Rating |
+|-------:|:-----------------------|---------:|
+|      1 | Lee Cronin's The Mummy |      6.8 |
+|      2 | Project Hail Mary      |      8.2 |
+|      3 | 180                    |      5.4 |
+|      4 | Roommates              |      6.2 |
+|      5 | Vengeance              |      6.1 |
