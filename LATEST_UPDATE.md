@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-04-19
+# Daily Movie Trends: 2026-04-20
 
-|   Rank | Movie                  |   Rating |
-|-------:|:-----------------------|---------:|
-|      1 | Lee Cronin's The Mummy |      6.8 |
-|      2 | Project Hail Mary      |      8.2 |
-|      3 | 180                    |      5.4 |
-|      4 | Roommates              |      6.2 |
-|      5 | Vengeance              |      6.1 |
+|   Rank | Movie                            | Rating   |
+|-------:|:---------------------------------|:---------|
+|      1 | Michael                          | 7.5      |
+|      2 | Project Hail Mary                | 8.217    |
+|      3 | The Super Mario Galaxy Movie     | 6.789    |
+|      4 | Lee Cronin's The Mummy           | 6.869    |
+|      5 | Avatar: Aang, The Last Airbender | N/A      |
