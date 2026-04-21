@@ -18,7 +18,7 @@ This repository acts as a self-updating database of movie trends. Instead of pay
 * `.github/workflows/scheduler.yml`: The YAML configuration for the GitHub Actions runner. It manages secrets and schedules the job to run daily at 12:00 UTC.
 * `tests/`: Unit tests ensuring data transformation logic is accurate before upload.
 * `LATEST_UPDATE.md`: A generated Markdown report showing the top 5 movies from the most recent run.
-* `(External) AWS S3 Bucket`: Stores the historical data, partitioned as `cleaned_data/YYYY/MM/YYYY-MM-DD_movies.csv`.
+* `(External) AWS S3 Bucket`: Stores the historical data, partitioned as `cleaned_data/YYYY/MM/YYYY-MM-DD_movies.parquet`.
 
 ## Tech Stack
 
