@@ -26,6 +26,7 @@ def transform_data(data, curr_date):
         row = {'date': curr_date,
                'rank': rank,
                'title': item['title'],
+               'genre_ids': item['genre_ids'],
                'popularity': item['popularity'],
                'vote_average': item['vote_average'],
                'release_date': item.get('release_date', 'N/A')}
