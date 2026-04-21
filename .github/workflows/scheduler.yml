@@ -1,4 +1,4 @@
-name: Serverless TMDB Data Lake
+name: TMDB Data Lake
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
           python-version: '3.9'
 
       - name: Install Dependencies
-        run: pip install pandas requests tabulate pytest boto3
+        run: pip install boto3 pandas pyarrow pytest requests tabulate
       
       - name: Run Unit Tests
         run: python -m pytest tests/test_transform_data.py
