@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-04-21
+# Daily Movie Trends: 2026-04-22
 
-|   Rank | Movie                   | Rating   |
-|-------:|:------------------------|:---------|
-|      1 | Michael                 | 8.063    |
-|      2 | Roommates               | 6.6      |
-|      3 | Project Hail Mary       | 8.225    |
-|      4 | The Devil Wears Prada 2 | N/A      |
-|      5 | Lee Cronin's The Mummy  | 6.853    |
+|   Rank | Movie                        | Rating   |
+|-------:|:-----------------------------|:---------|
+|      1 | Michael                      | 7.1      |
+|      2 | Clayface                     | -        |
+|      3 | Project Hail Mary            | 8.2      |
+|      4 | The Devil Wears Prada 2      | 6.0      |
+|      5 | The Super Mario Galaxy Movie | 6.8      |
