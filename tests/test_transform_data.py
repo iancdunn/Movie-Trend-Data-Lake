@@ -31,3 +31,16 @@ def test_transform_missing_data():
     assert res[0]['id'] == 1
     assert res[0]['genre_ids'] == None
     assert res[0]['release_date'] == None
+
+#Popular unreleased movies often appear in the trending section of TMDB's API with a vote average of 0
+def test_unreleased_movie():
+    test_json = {'results':
+                    [{'id': 1,
+                      'title': "Test Movie",
+                      'popularity': 100.0,
+                      'vote_average': 0.0}]}
+    
+    res = transform_data(test_json, "2000-01-01")
+
+    assert res[0]['id'] == 1
+    assert res[0]['vote_average'] == None
