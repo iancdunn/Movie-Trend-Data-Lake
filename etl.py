@@ -30,7 +30,7 @@ def transform_data(data, curr_date):
                'genre_ids': item.get('genre_ids'),
                'popularity': item['popularity'],
                'vote_average': item['vote_average'],
-               'release_date': item.get('release_date', 'N/A')}
+               'release_date': item.get('release_date')}
         
         if row['vote_average'] == 0.0:
             row['vote_average'] = None
