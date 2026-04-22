@@ -25,8 +25,9 @@ def transform_data(data, curr_date):
     for rank, item in enumerate(data['results'], start=1):
         row = {'date': curr_date,
                'rank': rank,
+               'id': item['id'],
                'title': item['title'],
-               'genre_ids': item['genre_ids'],
+               'genre_ids': item.get('genre_ids'),
                'popularity': item['popularity'],
                'vote_average': item['vote_average'],
                'release_date': item.get('release_date', 'N/A')}
