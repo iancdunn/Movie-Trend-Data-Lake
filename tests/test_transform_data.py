@@ -1,6 +1,6 @@
 from etl import transform_data
 
-def test_transform_valid_data():
+def test_transform_complete_data():
     test_json = {'results':
                     [{'id': 1,
                     'title': "Test Movie",
