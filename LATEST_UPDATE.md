@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-03
+# Daily Movie Trends: 2026-05-04
 
 |   Rank | Movie                   |   Rating |
 |-------:|:------------------------|---------:|
-|      1 | Swapped                 |      8.4 |
-|      2 | The Devil Wears Prada 2 |      6.8 |
+|      1 | The Devil Wears Prada 2 |      6.8 |
+|      2 | Swapped                 |      8.2 |
 |      3 | Michael                 |      7.5 |
-|      4 | Apex                    |      6.5 |
-|      5 | They Will Kill You      |      6.6 |
+|      4 | Apex                    |      6.4 |
+|      5 | They Will Kill You      |      6.7 |
