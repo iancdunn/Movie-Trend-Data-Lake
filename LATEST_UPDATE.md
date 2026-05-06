@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-04
+# Daily Movie Trends: 2026-05-06
 
-|   Rank | Movie                   |   Rating |
-|-------:|:------------------------|---------:|
-|      1 | The Devil Wears Prada 2 |      6.8 |
-|      2 | Swapped                 |      8.2 |
-|      3 | Michael                 |      7.5 |
-|      4 | Apex                    |      6.4 |
-|      5 | They Will Kill You      |      6.7 |
+|   Rank | Movie                        |   Rating |
+|-------:|:-----------------------------|---------:|
+|      1 | The Drama                    |      7   |
+|      2 | The Super Mario Galaxy Movie |      6.8 |
+|      3 | Swapped                      |      8   |
+|      4 | Ready or Not 2: Here I Come  |      7.1 |
+|      5 | Mortal Kombat II             |      8.2 |
