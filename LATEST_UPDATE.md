@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-09
+# Daily Movie Trends: 2026-05-10
 
 |   Rank | Movie                       |   Rating |
 |-------:|:----------------------------|---------:|
-|      1 | Remarkably Bright Creatures |      8   |
-|      2 | No Place to Be Single       |      6.5 |
-|      3 | Mortal Kombat II            |      7.1 |
-|      4 | Beast                       |      6.7 |
-|      5 | Swapped                     |      7.9 |
+|      1 | Project Hail Mary           |      8.2 |
+|      2 | Remarkably Bright Creatures |      8.2 |
+|      3 | Swapped                     |      8.5 |
+|      4 | Mortal Kombat II            |      7.1 |
+|      5 | Michael                     |      7.6 |
