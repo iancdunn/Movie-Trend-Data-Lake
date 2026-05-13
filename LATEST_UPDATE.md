@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-12
+# Daily Movie Trends: 2026-05-13
 
-|   Rank | Movie                       |   Rating |
-|-------:|:----------------------------|---------:|
-|      1 | Project Hail Mary           |      8.3 |
-|      2 | Mortal Kombat II            |      7.2 |
-|      3 | Remarkably Bright Creatures |      8.2 |
-|      4 | The Devil Wears Prada 2     |      6.8 |
-|      5 | Michael                     |      7.6 |
+|   Rank | Movie                                                                  |   Rating |
+|-------:|:-----------------------------------------------------------------------|---------:|
+|      1 | A Marvel Television Special Presentation - The Punisher: One Last Kill |      8.1 |
+|      2 | Project Hail Mary                                                      |      8.4 |
+|      3 | Michael                                                                |      7.5 |
+|      4 | Mortal Kombat II                                                       |      7.1 |
+|      5 | Faces of Death                                                         |      5.6 |
