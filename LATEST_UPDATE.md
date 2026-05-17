@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-16
+# Daily Movie Trends: 2026-05-17
 
-|   Rank | Movie                       | Rating   |
-|-------:|:----------------------------|:---------|
-|      1 | The Punisher: One Last Kill | 8.6      |
-|      2 | Project Hail Mary           | 8.5      |
-|      3 | Bride of the Year           | -        |
-|      4 | Obsession                   | 8.0      |
-|      5 | Mortal Kombat II            | 7.0      |
+|   Rank | Movie                       |   Rating |
+|-------:|:----------------------------|---------:|
+|      1 | Project Hail Mary           |      8.6 |
+|      2 | The Punisher: One Last Kill |      8.6 |
+|      3 | Obsession                   |      8   |
+|      4 | Michael                     |      7.6 |
+|      5 | Hoppers                     |      8   |
