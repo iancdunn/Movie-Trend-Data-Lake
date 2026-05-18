@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-17
+# Daily Movie Trends: 2026-05-18
 
 |   Rank | Movie                       |   Rating |
 |-------:|:----------------------------|---------:|
-|      1 | Project Hail Mary           |      8.6 |
+|      1 | Lee Cronin's The Mummy      |      6.7 |
 |      2 | The Punisher: One Last Kill |      8.6 |
-|      3 | Obsession                   |      8   |
-|      4 | Michael                     |      7.6 |
-|      5 | Hoppers                     |      8   |
+|      3 | Project Hail Mary           |      8.6 |
+|      4 | Obsession                   |      8.1 |
+|      5 | Mortal Kombat II            |      7   |
