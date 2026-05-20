@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-19
+# Daily Movie Trends: 2026-05-20
 
-|   Rank | Movie                        |   Rating |
-|-------:|:-----------------------------|---------:|
-|      1 | Lee Cronin's The Mummy       |      7.2 |
-|      2 | Normal                       |      7   |
-|      3 | Mortal Kombat II             |      7   |
-|      4 | Mother Mary                  |      5.4 |
-|      5 | The Super Mario Galaxy Movie |      6.7 |
+|   Rank | Movie                             |   Rating |
+|-------:|:----------------------------------|---------:|
+|      1 | Tom Clancy's Jack Ryan: Ghost War |      6.5 |
+|      2 | Lee Cronin's The Mummy            |      7.7 |
+|      3 | Normal                            |      6.6 |
+|      4 | The Super Mario Galaxy Movie      |      7.2 |
+|      5 | Mother Mary                       |      5.8 |
