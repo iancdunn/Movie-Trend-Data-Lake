@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-28
+# Daily Movie Trends: 2026-05-29
 
-|   Rank | Movie               | Rating   |
-|-------:|:--------------------|:---------|
-|      1 | Backrooms           | 6.0      |
-|      2 | Obsession           | 7.9      |
-|      3 | Fuze                | 6.6      |
-|      4 | Disclosure Day      | -        |
-|      5 | Over Your Dead Body | 7.4      |
+|   Rank | Movie                         | Rating   |
+|-------:|:------------------------------|:---------|
+|      1 | Backrooms                     | 6.6      |
+|      2 | Propeller One-Way Night Coach | 8.0      |
+|      3 | Obsession                     | 7.9      |
+|      4 | Toy Story 5                   | -        |
+|      5 | Scary Movie                   | -        |
