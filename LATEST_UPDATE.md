@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-05-30
+# Daily Movie Trends: 2026-05-31
 
 |   Rank | Movie                         |   Rating |
 |-------:|:------------------------------|---------:|
-|      1 | Backrooms                     |      6.5 |
-|      2 | Obsession                     |      7.9 |
-|      3 | Propeller One-Way Night Coach |      5.7 |
-|      4 | Iron Lung                     |      7.3 |
-|      5 | Fuze                          |      6.4 |
+|      1 | Backrooms                     |      6.6 |
+|      2 | Iron Lung                     |      7.3 |
+|      3 | Obsession                     |      8   |
+|      4 | Project Hail Mary             |      8.6 |
+|      5 | Propeller One-Way Night Coach |      6.4 |
