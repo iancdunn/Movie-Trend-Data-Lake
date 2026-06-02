@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-01
+# Daily Movie Trends: 2026-06-02
 
-|   Rank | Movie       | Rating   |
-|-------:|:------------|:---------|
-|      1 | Backrooms   | 6.8      |
-|      2 | Obsession   | 8.0      |
-|      3 | Scary Movie | 8.0      |
-|      4 | Iron Lung   | 7.2      |
-|      5 | Toy Story 5 | -        |
+|   Rank | Movie                   |   Rating |
+|-------:|:------------------------|---------:|
+|      1 | Hokum                   |      7.1 |
+|      2 | Backrooms               |      6.7 |
+|      3 | In the Grey             |      6.6 |
+|      4 | Obsession               |      7.9 |
+|      5 | Masters of the Universe |      8.1 |
