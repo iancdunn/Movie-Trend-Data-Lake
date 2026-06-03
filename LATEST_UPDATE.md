@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-02
+# Daily Movie Trends: 2026-06-03
 
-|   Rank | Movie                   |   Rating |
-|-------:|:------------------------|---------:|
-|      1 | Hokum                   |      7.1 |
-|      2 | Backrooms               |      6.7 |
-|      3 | In the Grey             |      6.6 |
-|      4 | Obsession               |      7.9 |
-|      5 | Masters of the Universe |      8.1 |
+|   Rank | Movie       |   Rating |
+|-------:|:------------|---------:|
+|      1 | In the Grey |      6.6 |
+|      2 | Hokum       |      7.1 |
+|      3 | Obsession   |      7.9 |
+|      4 | Backrooms   |      6.7 |
+|      5 | Scary Movie |      5.4 |
