@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-04
+# Daily Movie Trends: 2026-06-05
 
-|   Rank | Movie       |   Rating |
-|-------:|:------------|---------:|
-|      1 | Obsession   |      7.9 |
-|      2 | Scary Movie |      5.5 |
-|      3 | Backrooms   |      6.7 |
-|      4 | In the Grey |      6.6 |
-|      5 | Hokum       |      7.1 |
+|   Rank | Movie                   | Rating   |
+|-------:|:------------------------|:---------|
+|      1 | Office Romance          | 7.0      |
+|      2 | Scary Movie             | 5.8      |
+|      3 | The Marked Woman        | -        |
+|      4 | Masters of the Universe | 7.7      |
+|      5 | Backrooms               | 6.8      |
