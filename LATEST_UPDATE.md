@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-08
+# Daily Movie Trends: 2026-06-09
 
 |   Rank | Movie            |   Rating |
 |-------:|:-----------------|---------:|
-|      1 | Mortal Kombat II |      6.7 |
-|      2 | Michael          |      7.6 |
-|      3 | Obsession        |      7.9 |
-|      4 | Backrooms        |      6.9 |
-|      5 | Scary Movie      |      5.8 |
+|      1 | Michael          |      8.2 |
+|      2 | Mortal Kombat II |      7.6 |
+|      3 | Disclosure Day   |      8.2 |
+|      4 | Obsession        |      7.9 |
+|      5 | Backrooms        |      6.9 |
