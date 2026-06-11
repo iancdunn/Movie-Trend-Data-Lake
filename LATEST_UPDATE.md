@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-10
+# Daily Movie Trends: 2026-06-11
 
-|   Rank | Movie               |   Rating |
-|-------:|:--------------------|---------:|
-|      1 | Michael             |      8.4 |
-|      2 | Disclosure Day      |      8.1 |
-|      3 | Mortal Kombat II    |      7.9 |
-|      4 | Obsession           |      7.9 |
-|      5 | Over Your Dead Body |      6.8 |
+|   Rank | Movie                 |   Rating |
+|-------:|:----------------------|---------:|
+|      1 | Disclosure Day        |      7.7 |
+|      2 | Michael               |      8.5 |
+|      3 | Obsession             |      7.9 |
+|      4 | Colors of Evil: Black |      6.9 |
+|      5 | Over Your Dead Body   |      6.9 |
