@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-16
+# Daily Movie Trends: 2026-06-17
 
-|   Rank | Movie          |   Rating |
-|-------:|:---------------|---------:|
-|      1 | Pressure       |      7.9 |
-|      2 | Toy Story 5    |      7.6 |
-|      3 | Deep Water     |      6.6 |
-|      4 | Disclosure Day |      6.9 |
-|      5 | Obsession      |      7.9 |
+|   Rank | Movie                     | Rating   |
+|-------:|:--------------------------|:---------|
+|      1 | Pressure                  | 8.1      |
+|      2 | Your Fault: London        | 7.5      |
+|      3 | Toy Story 5               | 7.2      |
+|      4 | Deep Water                | 6.6      |
+|      5 | Spider-Man: Brand New Day | -        |
