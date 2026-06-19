@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-18
+# Daily Movie Trends: 2026-06-19
 
-|   Rank | Movie                     | Rating   |
-|-------:|:--------------------------|:---------|
-|      1 | Your Fault: London        | 7.8      |
-|      2 | Toy Story 5               | 7.1      |
-|      3 | Spider-Man: Brand New Day | -        |
-|      4 | Pressure                  | 8.0      |
-|      5 | Backrooms                 | 6.9      |
+|   Rank | Movie                   | Rating   |
+|-------:|:------------------------|:---------|
+|      1 | Husbands in Action      | -        |
+|      2 | Toy Story 5             | 7.2      |
+|      3 | Voicemails for Isabelle | 6.8      |
+|      4 | Your Fault: London      | 7.7      |
+|      5 | Obsession               | 7.9      |
