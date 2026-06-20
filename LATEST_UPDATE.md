@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-19
+# Daily Movie Trends: 2026-06-20
 
-|   Rank | Movie                   | Rating   |
-|-------:|:------------------------|:---------|
-|      1 | Husbands in Action      | -        |
-|      2 | Toy Story 5             | 7.2      |
-|      3 | Voicemails for Isabelle | 6.8      |
-|      4 | Your Fault: London      | 7.7      |
-|      5 | Obsession               | 7.9      |
+|   Rank | Movie                   |   Rating |
+|-------:|:------------------------|---------:|
+|      1 | Husbands in Action      |      6.4 |
+|      2 | Voicemails for Isabelle |      7.1 |
+|      3 | Toy Story 5             |      7.4 |
+|      4 | Obsession               |      7.9 |
+|      5 | Your Fault: London      |      7.7 |
