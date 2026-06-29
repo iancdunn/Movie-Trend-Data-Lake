@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-06-28
+# Daily Movie Trends: 2026-06-29
 
-|   Rank | Movie                |   Rating |
-|-------:|:---------------------|---------:|
-|      1 | The Sheep Detectives |      7.8 |
-|      2 | Supergirl            |      6.1 |
-|      3 | Little Brother       |      6.4 |
-|      4 | Backrooms            |      6.9 |
-|      5 | Citizen Vigilante    |      7.2 |
+|   Rank | Movie             |   Rating |
+|-------:|:------------------|---------:|
+|      1 | Obsession         |      7.9 |
+|      2 | Supergirl         |      6.2 |
+|      3 | Backrooms         |      6.9 |
+|      4 | Little Brother    |      6.3 |
+|      5 | Citizen Vigilante |      7   |
